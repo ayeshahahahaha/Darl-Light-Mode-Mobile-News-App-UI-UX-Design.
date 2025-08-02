@@ -39,17 +39,13 @@ Brief explanation of how dark mode improves readability and accessibility.
 Professional visual presentation suitable for portfolios and case studies.
 
 # Project Screenshots
-Light Mode
+# ##Light Mode##
 
-<img width="520" height="960" alt="DarkMode" src="https://github.com/user-attachments/assets/744a4df3-fdbd-4feb-96a0-414af8243e3b" />
+<img width="520" height="960" alt="LightMode" src="https://github.com/user-attachments/assets/eb21f69b-7820-4243-947b-4be50500d943" /> <img width="520" height="960" alt="LightMode-NewsDetails" src="https://github.com/user-attachments/assets/779814d1-2742-4611-b516-7ba70fe3b66a" />
 
-![Light Mode Screen](images/LightMode-NewsDetails.png)
+# ##Dark Mode##
 
-Dark Mode
-
-![dark Mode Screen](images/DarkMode.png)
-
-![Dark Mode Screen](images/DarkMode-NewsDetails.png)
+<img width="520" height="960" alt="DarkMode" src="https://github.com/user-attachments/assets/b85ea79d-c2ae-482e-a2f5-6bfa9b5bfe2f" /> <img width="520" height="960" alt="DarkMode-NewsDetails" src="https://github.com/user-attachments/assets/ae828eda-1886-489e-91c4-68687a627d6d" />
 
 # How Dark Mode Improves Readability & Accessibility
 Dark mode provides several benefits for users:
