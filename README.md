@@ -41,7 +41,8 @@ Professional visual presentation suitable for portfolios and case studies.
 # Project Screenshots
 Light Mode
 
-![Light Mode Screen](LightMode.png)
+![Light Mode Screen](<img width="520" height="960" alt="DarkMode" src="https://github.com/user-attachments/assets/744a4df3-fdbd-4feb-96a0-414af8243e3b" />
+)
 
 ![Light Mode Screen](images/LightMode-NewsDetails.png)
 
